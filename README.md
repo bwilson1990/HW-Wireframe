@@ -1,3 +1,3 @@
 # HW-Wireframe
 
-## Introduction on how to set up a wireframe website.
+Introduction on how to set up a wireframe website.
